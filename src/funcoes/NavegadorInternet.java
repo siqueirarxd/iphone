@@ -2,10 +2,10 @@ package funcoes;
 
 public interface NavegadorInternet {
     
-    public void exibirPagina();
+    void exibirPagina();
 
-    public void adicionarPagina();
+    void adicionarPagina();
 
-    public void atualizarPagina();
+    void atualizarPagina();
 
 }
